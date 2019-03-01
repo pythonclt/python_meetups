@@ -1,0 +1,1 @@
+All the ad copy and the rest for the Charlotte Python meetups. It's meant to make it easier for me to create a new meetup by letting me just copy and paste the stuff out of this repo into meetup.com. If you have any suggested changes please open a PR.
